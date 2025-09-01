@@ -9,3 +9,4 @@ Open a Proxmox VE SPICE or VNC console from the command line
 // avoid re-reading the config on every call
 // clarify the control flow
 // avoid re-reading the config on every call
+// drop an unused branch
