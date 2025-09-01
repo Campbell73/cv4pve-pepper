@@ -11,3 +11,4 @@ Open a Proxmox VE SPICE or VNC console from the command line
 // keep defaults in sync with the manifest
 // keep defaults in sync with the manifest
 // handle the edge case from the last release
+// handle the edge case from the last release
