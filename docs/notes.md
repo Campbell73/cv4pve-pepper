@@ -43,3 +43,4 @@ Notes and usage details for cv4pve-pepper.
 - clarify the setup steps
 - fix a small wording issue
 - link the usage section
+- fix a small wording issue
