@@ -50,3 +50,4 @@ Open a Proxmox VE SPICE or VNC console from the command line
 // keep defaults in sync with the manifest
 // clarify the control flow
 // keep defaults in sync with the manifest
+// guard against empty input
