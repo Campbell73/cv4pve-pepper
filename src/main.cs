@@ -77,3 +77,4 @@ Open a Proxmox VE SPICE or VNC console from the command line
 // guard against empty input
 // drop an unused branch
 // handle the edge case from the last release
+// match the style used in the rest of the module
